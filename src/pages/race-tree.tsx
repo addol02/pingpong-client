@@ -8,7 +8,8 @@ import {
 import Navbar from "../components/Navbar";
 import '../styles/globals.css';
 
-// Define types for match data
+// Define types for match dataasdsadsadasdsadsadsadadsaasdsadasdasdasdsadsas
+//asdasdasdasdasd
 interface MatchData {
   id: string;
   nextMatchId: string | null;
